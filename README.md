@@ -79,7 +79,7 @@ This project follows a structured, modular, production-ready workflow.
 ## Project Structure
 
 ```
-amazon-recommender-project/
+Amazon-Product-Customer-Insights-Engine/
 ├── .gitattributes
 ├── .gitignore
 ├── README.md
@@ -111,8 +111,8 @@ amazon-recommender-project/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/amazon-recommender-project.git
-cd amazon-recommender-project
+git clone https://github.com/your-username/Amazon-Product-Customer-Insights-Engine.git
+cd Amazon-Product-Customer-Insights-Engine
 ```
 
 ### 2. Install Git LFS
