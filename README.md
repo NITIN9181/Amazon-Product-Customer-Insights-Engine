@@ -30,7 +30,7 @@ This DNA allows the model to find highly similar products using text similarity.
 
 ---
 
-##  App Demo
+##  Web Demo
 
 ![Image 1](Images/Img2.png)
 ![Image 2](Images/img1.png)
